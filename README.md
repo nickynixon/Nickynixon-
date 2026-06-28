@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-  <div align="center">
+ 
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
     
@@ -15,9 +15,8 @@
   
   <!-- Languages -->
   </br>
+  <div align="center">
   <h3>Languages</h3>
-
- 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     width="60px"
