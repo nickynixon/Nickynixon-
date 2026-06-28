@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center" width="100">
      
-  alt="header"/>
+ 
 </div>
 
 <!-- STACK -->
