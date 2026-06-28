@@ -6,7 +6,7 @@
     
   <h1>NCN (NickyNixon) </h1>
   
-    <!-- Sobre Mi -->
+  <!-- Sobre Mi -->
 
   <h1 Estudiante de grados superiores en Telecomunicaciones e Informática. Conocimientos en sistemas, redes y desarrollo básico. Iniciándome en el mundo freelance, enfocado en crecer profesionalmente mediante proyectos reales y aprendizaje continuo en el sector               tecnológico> </h1>
    </div>
