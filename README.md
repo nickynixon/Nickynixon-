@@ -71,11 +71,11 @@
     alt="PostgreSQL">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
-  
-
-  <!-- Algunos proyectos -->
+   <!-- Algunos proyectos -->
+   <div>
    <h1>Algunos proyectos:</h1>
-  
+   </div> 
+ 
    
    <!-- STATS -->
    <div align="center" width="100">
@@ -106,8 +106,7 @@
       alt="LinkedIn">
   </a>
   </br>
-  <!-- Algunos proyectos -->
-   <h1>Algunos proyectos:</h1>
+
   
 
   <img
