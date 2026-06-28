@@ -109,8 +109,10 @@
       src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
       alt="LinkedIn">
   </a>
-
   </br>
+  <!-- Algunos proyectos -->
+   <h1>Algunos proyectos:</h1>
+  
 
   <img
     src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
