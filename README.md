@@ -1,4 +1,6 @@
 <!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
 <div align="center" width="100">
      
  
@@ -140,6 +142,5 @@ USED:
 
 ------
 
-Credit: [](https://github.com/Dum6o)
 
-Last Edited on: 04/04/2022
+Last Edited on: 
