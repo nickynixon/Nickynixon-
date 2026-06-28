@@ -16,7 +16,7 @@
   <!-- Languages -->
   </br>
   <div align="center">
-  <h3>Languages</h3>
+  <h3>Languages :</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     width="60px"
@@ -42,11 +42,7 @@
   
   <!-- Frameworks -->
   </br>
-  <h3>Frameworks</h3>
- 
- 
-
-
+  <h3>Frameworks:</h3>
   </br>
 
   <img
@@ -65,14 +61,9 @@
     width="60px"
     alt="React">
     &nbsp;&nbsp;&nbsp;&nbsp;
- 
-
-
-
-  
   <!-- Storages -->
   </br>
-  <h3>Storages</h3>
+  <h3>Storages: </h3>
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
@@ -84,19 +75,19 @@
   <!-- Tools -->
  
   
-</div>
+   </div>
 
-</br>
-</br>
-</br>
+   </br>
+   </br>
+   </br>
 
-<!-- STATS -->
-<div align="center" width="100">
-  <h1>Contacto</h1>
+   <!-- STATS -->
+   <div align="center" width="100">
+     <h1>Contacto :</h1>
    
-</div>
+   </div>
 
-<div align="center">
+   <div align="center">
   </br>
   <a href="https://www.linkedin.com/in/edvardasjusius/">
     <img
