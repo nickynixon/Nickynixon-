@@ -42,7 +42,7 @@
     alt="css3">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
-    &nbsp;&nbsp;&nbsp;&nbsp;
+
   
   <!-- Frameworks -->
   </br>
