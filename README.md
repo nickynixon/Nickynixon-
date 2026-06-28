@@ -1,14 +1,17 @@
 <!-- HEADER -->
-<div align="center">
-<h1>NCN (NickyNixon) </h1>
+  <div align="center">
+  <h1>NCN (NickyNixon) </h1>
+  <!-- Sobre Mi -->
+  <div Estudiante de grados superiores en Telecomunicaciones e Informática. Conocimientos en sistemas, redes y desarrollo básico. Iniciándome en el mundo freelance, enfocado en crecer profesionalmente mediante proyectos reales y aprendizaje continuo en el sector               tecnológico.>
+  </div>
 
+  
+  
   <div align="center" width="100">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
   alt="footer" />
   <div align="center" width="100">
-     
- 
-</div>
+  </div>
 
 <!-- STACK -->
 <div align="center" width="100">
