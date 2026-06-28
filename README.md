@@ -92,7 +92,7 @@
 
 <!-- STATS -->
 <div align="center" width="100">
-  <h1>Statistic</h1>
+  <h1>Contacto</h1>
    
 </div>
 
