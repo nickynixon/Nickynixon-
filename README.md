@@ -1,8 +1,10 @@
 <!-- HEADER -->
   <div align="center">
   <h1>NCN (NickyNixon) </h1>
-  <!-- Sobre Mi -->
-  <div Estudiante de grados superiores en Telecomunicaciones e Informática. Conocimientos en sistemas, redes y desarrollo básico. Iniciándome en el mundo freelance, enfocado en crecer profesionalmente mediante proyectos reales y aprendizaje continuo en el sector               tecnológico.>
+  
+    <!-- Sobre Mi -->
+  <div>
+     Estudiante de grados superiores en Telecomunicaciones e Informática. Conocimientos en sistemas, redes y desarrollo básico. Iniciándome en el mundo freelance, enfocado en crecer profesionalmente mediante proyectos reales y aprendizaje continuo en el sector               tecnológico
   </div>
 
   
