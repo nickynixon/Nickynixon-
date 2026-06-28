@@ -72,15 +72,11 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
 
   
-  <!-- Tools -->
- 
+
+  <!-- Algunos proyectos -->
+   <h1>Algunos proyectos:</h1>
   
-   </div>
-
-   </br>
-   </br>
-   </br>
-
+   
    <!-- STATS -->
    <div align="center" width="100">
      <h1>Contacto :</h1>
