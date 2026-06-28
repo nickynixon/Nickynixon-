@@ -89,23 +89,7 @@
 <!-- STATS -->
 <div align="center" width="100">
   <h1>Statistic</h1>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Dum6o&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
-      alt="Dum6o GitHub Streak">
-  </br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
-    alt="Dum6o GitHub Stats">
-  
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-      <img
-        src="https://stackoverflow-card.vercel.app/?userID=5272951&theme=stackoverflow-light"
-        alt="Dumbo StackOverflow">
-  </a>
-  </br>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
-    alt="Dum6o GitHub Awards">
+   
 </div>
 
 <div align="center">
